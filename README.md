@@ -25,4 +25,4 @@ To apply a new texture create a .paa file matching the dimension of the default 
 
 
 
-I own none of the files nor content distributed in this mod (if you can call it that), they're simply modified versions of the [Arma2 Public Samples](https://www.bohemia.net/community/licenses/licensed-data-packages). Created by Bohemia, made available under the [DPL License](https://www.bohemia.net/community/licenses/dayz-public-license-dpl)
+I own none of the files nor content distributed in this mod (if you can call it that), they're simply modified versions of the [Arma2 Public Samples](https://www.bohemia.net/community/licenses/licensed-data-packages). Created by Bohemia Interactive, made available under the [ADPL-SA License](https://www.bohemia.net/community/licenses/arma-and-dayz-public-license-share-alike-adpl-sa)
